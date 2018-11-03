@@ -61,4 +61,5 @@ for k,v in jjj.items():
 
 ## Week 6 : Tuples
 
-- Tuples
+- Tuples. Immutable. Tuples and Dictionaries. List comprehension.
+
